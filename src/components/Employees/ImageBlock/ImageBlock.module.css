@@ -1,0 +1,12 @@
+.image-block {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.image-block img {
+    width: 100%;
+    aspect-ratio: 115/150;
+    object-fit: contain;
+}

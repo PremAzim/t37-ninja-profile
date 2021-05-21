@@ -1,0 +1,14 @@
+.icon-container {
+    display: inline-block;
+    width: 25%;
+}
+
+.icon-container div {
+    display:inline-block;
+    margin-right:0.3vw;
+}
+
+.icon-container img {
+    width: 2vw;
+    height: 2vw;
+}

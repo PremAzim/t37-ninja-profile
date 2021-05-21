@@ -1,0 +1,23 @@
+.text-container {
+    display: inline-block;
+    width: 70%;
+    line-height: 1.5;
+}
+
+.text-container p {
+    margin-left: 5%;
+    font-size: 2vw;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+
+.name {
+    margin-bottom: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.location {
+    margin-top: 0px;
+}

@@ -1,0 +1,16 @@
+.employee-card {
+    display: inline-block;
+    width: 29%;
+    margin: 1% 10px 20px;
+    padding: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(170, 170, 170, 0.6);
+}
+
+.employee-card:hover {
+    box-shadow: 0 0 10px rgba(170, 170, 170, 1);
+}
+
+.employee-card-null {
+    display: inline-block;
+}

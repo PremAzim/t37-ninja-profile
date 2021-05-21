@@ -1,0 +1,29 @@
+.filter-by {
+    display: inline-block;
+    position: absolute;
+    right: 10%;
+    bottom: 10%;
+}
+
+.filter-by span, .filter-by form, .filter-by form select, .filter-by form label {
+    display: inline-block;
+}
+
+.filter-by-text {
+    color: #ffffff;
+    font-size: 15px;
+    margin: 15px;
+    margin-top: 30px;
+    padding: 5px;
+}
+
+.filter-by-options {
+    width: 150px;
+    height: 40px;
+    margin-right: 15px;
+}
+
+.filter-by-search {
+    width: 150px;
+    height: 35px;
+}
